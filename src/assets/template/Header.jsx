@@ -10,7 +10,7 @@ function Header(){
     return(
         <Navbar bg="dark" data-bs-theme="dark" expand="lg" className="bg-body-tertiary">
       <Container fluid>
-       <Navbar.Brand href="#">Vinicius de Oliveira</Navbar.Brand>
+       <Navbar.Brand href="#">Vinicius de Oliveira Santos </Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav
